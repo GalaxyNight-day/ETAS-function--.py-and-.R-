@@ -1,4 +1,4 @@
-ETAS-function--.py-and-.R-
-==========================
++ETAS-function--.py-and-.R-
+
 
 codes for ETAS
