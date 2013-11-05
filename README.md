@@ -1,4 +1,1 @@
-*ETAS-function--.py-and-.R-
-
-
-codes for ETAS
+ETAS-function--.py-and-.R-
