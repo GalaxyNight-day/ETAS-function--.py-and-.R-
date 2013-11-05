@@ -1,6 +1,6 @@
 #code from ETAS package
 
-function (X, win, tperiod, m0, param0, bwd = NULL, nnp = 5, 
+etas=function (X, win, tperiod, m0, param0, bwd = NULL, nnp = 5, 
   bwm = 0.05, verbose = TRUE, plot.it = TRUE, no.itr = 11) 
 {
   prep <- etas.prepare(X, win, tperiod, m0, bwd, nnp, bwm, 
